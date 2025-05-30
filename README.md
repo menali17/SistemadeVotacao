@@ -126,31 +126,30 @@ python main.py
 ```bash
 cd UrnaEletronica_Interface
 python main.py
-## 🗳️ Candidatos por Cargo
 
-### Presidente
-- **25** - José Mariano  
-- **77** - Jéssica Fernandes  
-- **12** - Rogério de Sá Silveira  
+ Candidatos por Cargo:
 
-### Governador
-- **45** - Lucas da Silva  
-- **13** - Marina Costa  
+Presidente
+- 25 - José Mariano  
+- 77 - Jéssica Fernandes  
+- 12 - Rogério de Sá Silveira  
 
-### Senador
-- **50** - Ana Paula Dias  
-- **60** - Carlos Menezes  
+Governador
+- 45 - Lucas da Silva  
+- 13 - Marina Costa  
 
-### Deputado Federal
-- **1010** - Fernanda Lima  
-- **2020** - Ricardo Gomes  
+Senador
+- 50 - Ana Paula Dias  
+- 60 - Carlos Menezes  
 
-### Deputado Estadual
-- **3030** - Patrícia Souza  
-- **4040** - Eduardo Ramos 
+Deputado Federal
+- 1010 - Fernanda Lima  
+- 2020 - Ricardo Gomes  
+
+Deputado Estadual
+- 3030 - Patrícia Souza  
+- 4040 - Eduardo Ramos 
 ```
-
----
 
 ## 🧪 Testagem
 
