@@ -10,8 +10,6 @@ Desenvolver um sistema completo de votação eletrônico com:
 - Urna gráfica simulando uma urna real
 - Registro de votos com persistência de dados em arquivos JSON
 
-O sistema respeita o paradigma de **Programação Orientada a Objetos**, utilizando os principais conceitos vistos em sala, como **herança, polimorfismo, encapsulamento, composição forte, associação fraca** e **mixins**.
-
 ---
 
 ## 🧩 Casos de Uso
