@@ -77,7 +77,6 @@ Desenvolver um sistema completo de votação eletrônico com:
 
 - ✅ **Herança:** Classe `Eleitor` herda de `Pessoa`
 - ✅ **Polimorfismo:** Métodos sobrescritos em classes controladoras
-- ✅ **Encapsulamento:** Atributos protegidos e validações internas
 - ✅ **Composição Forte:** A urna contém e controla o fluxo de votação
 - ✅ **Associação Fraca:** Associação entre objetos auxiliares e componentes de interface
 
