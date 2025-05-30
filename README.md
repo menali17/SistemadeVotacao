@@ -80,7 +80,7 @@ Desenvolver um sistema completo de votação eletrônico com:
 - ✅ **Encapsulamento:** Atributos protegidos e validações internas
 - ✅ **Composição Forte:** A urna contém e controla o fluxo de votação
 - ✅ **Associação Fraca:** Associação entre objetos auxiliares e componentes de interface
-- ✅ **Mixins:** (Pode ser implementado em futuras melhorias)
+
 
 ---
 
