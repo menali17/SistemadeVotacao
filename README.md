@@ -124,7 +124,7 @@ python main.py
 ```bash
 cd UrnaEletronica_Interface
 python main.py
-
+OBS: Para acessar os recursos da Urna, é necessário primeiramente o cadastro de um eleitor com CPF válido
  Candidatos por Cargo:
 
 Presidente
